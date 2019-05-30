@@ -1,0 +1,4 @@
+﻿  KnapSack.cpp
+c:\mine\college\4학년 1학기\컴퓨터 알고리즘\assignment2\0-1knapsack\0-1knapsack\knapsack.cpp(173): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0-1KnapSack.vcxproj -> C:\mine\college\4학년 1학기\컴퓨터 알고리즘\Assignment2\0-1KnapSack\Debug\0-1KnapSack.exe
+  0-1KnapSack.vcxproj -> C:\mine\college\4학년 1학기\컴퓨터 알고리즘\Assignment2\0-1KnapSack\Debug\0-1KnapSack.pdb (Full PDB)
